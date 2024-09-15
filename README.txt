@@ -1,2 +1,1 @@
-this is my intro to git!!
-jdfkhdsfhadshfkjkdfkah
+this is my first git project
